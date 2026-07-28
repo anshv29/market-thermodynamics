@@ -70,13 +70,7 @@ Python · PyTorch · PyTorch Geometric · PostgreSQL · TimescaleDB · hmmlearn 
 
 ## Structure
 
-market_thermo/
-├── data/ # price and macro ingestion
-├── db/ # schema and connection utilities
-├── features/ # physics feature engine
-├── models/ # GNN, VAE, HMM, transformer
-├── backtest/ # regime strategy, paper trading, daily update
-└── visualization/ # all charts and interactive dashboard
+market_thermo > data/ # price and macro ingestion, db/ # schema and connection utilities, features/ # physics feature engine, models/ # GNN, VAE, HMM, transformer, backtest/ # regime strategy, paper trading, daily update, visualization/ # all charts and interactive dashboard
 
 ---
 

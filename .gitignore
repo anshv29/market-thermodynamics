@@ -1,0 +1,15 @@
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+build/
+*.pt
+backtest/paper_trade_history.csv
+backtest/daily_update_log.txt
+backtest/paper_trade_log.txt
+models/vae_mean.csv
+models/vae_std.csv
